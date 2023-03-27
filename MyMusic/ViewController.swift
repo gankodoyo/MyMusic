@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
     //シンバルの音源ファイルを指定
     let cymbalPath = Bundle.main.bundleURL.appendingPathComponent("cymbal.mp3")
